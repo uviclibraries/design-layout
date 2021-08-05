@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why Canva? 
 
-[Canva](https://www.canva.com/) Desribe the tool and how it can be used. 
+[Canva](https://www.canva.com/){:target="_blank"} Desribe the tool and how it can be used. 
 
 ADD DESCRIPTION HERE 
 
