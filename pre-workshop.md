@@ -12,7 +12,7 @@ This workshop is primarily hands-on practice with Canva in order to learn to use
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
-**Step 2: Pre-Class Preparation [Quiz](https://forms.gle/hCdadx59ttrM9zsR9){:target="_blank"}.**<br>
+**Step 2: Pre-Class Preparation [Quiz](https://forms.gle/hCdadx59ttrM9zsR9){: .btn .btn-purple }{:target="_blank"}.**<br>
 1. Have you set up a free account on Canva.com? (Y/N)
 2. What is "hierarchy" in layout?
    - Ordering text alphabetically. 
