@@ -6,4 +6,4 @@ parent: Workshop Activities
 ---
 # Photo Frames and More with Canva
 
-[NEXT STEP: Canva Take Home Sheet](canva-take-home.html){: .btn .btn-blue }
+[NEXT STEP: Canva Take Home Sheet](canva-take-home-sheet.html){: .btn .btn-blue }
