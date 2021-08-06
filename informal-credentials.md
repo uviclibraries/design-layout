@@ -13,12 +13,11 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### UPDATE: Earn an Informal Credential or Badge for Taguette
+### UPDATE: Earn an Informal Credential or Badge for Design and Layout with Canva
 
-If you’d like to earn a DSC badge for this porkshop, please email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. Statistical Functions
-2. Macros
-3.  Digital Dashboards
+If you’d like to earn a DSC badge for this workshop, please email one or both of the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
+1. PDF copy of your Poster 
+2. PDF copy of your Brochure
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
