@@ -27,7 +27,7 @@ parent: Workshop Activities
 - Another excellent resources for free stock photography including history photos: [Unsplash](https://unsplash.com/){:target="_blank"}
 - Design inspiration: [Design Inspiration](https://www.designspiration.com/){:target="_blank"}
 - Inspiration, creators, freebies: [Dribble](https://dribbble.com/){:target="_blank"}
-- Colour scheme generator: [oolors](https://coolors.co){:target="_blank"}
+- Colour scheme generator: [Coolors](https://coolors.co){:target="_blank"}
 
 ## Printing Tips:
 - Download as PDF Print
