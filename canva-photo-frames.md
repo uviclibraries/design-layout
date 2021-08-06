@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Activities Introduction
-nav_order: 2
+title: Photo Frames and More
+nav_order: 5
 parent: Workshop Activities
 ---
 # Photo Frames and More with Canva
