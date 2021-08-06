@@ -11,7 +11,7 @@ parent: Workshop Activities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1nt7uOh008" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Beginning Graphic Design: [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8){:target="_blank"}(5 min) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5KYlHNKQB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [How to choose images for your project](https://www.youtube.com/watch?v=MELKuexR3sQ){:target="_blank"}(5.5 min) 
+- [How to choose images for your project](https://www.youtube.com/MELKuexR3sQ){:target="_blank"}(5.5 min) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MELKuexR3sQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Additional Design & Layout videos:
