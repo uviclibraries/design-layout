@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Photo Frames and More
+title: 4-Photo Frames and More
 nav_order: 5
 parent: Workshop Activities
 ---
