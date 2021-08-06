@@ -13,9 +13,7 @@ nav_order: 1
 
 ## Why Canva? 
 
-[Canva](https://www.canva.com/){:target="_blank"} Desribe the tool and how it can be used. 
-
-ADD DESCRIPTION HERE 
+[Canva](https://www.canva.com/){:target="_blank"} is a free graphic design tool that helps users create customizable posters, brochures, cards, social media posts and more. Canva has numerous templates and features that can act as inspiration and can be changed according to your goals. This tool is web-based and works like Google Docs but for layout with design elements). It auto-saves your work so you can work across multiple computers and collaborate with teammates. Canva has a free and a premium tier. This workshop goes over how to utilize the free tools within Canva. Even in the free side of Canva, there are options to use pay-as-you-go elements (clip art and photos) but they aren’t necessary to design excellent work in this software.
 
 ## Learning objectives
 
