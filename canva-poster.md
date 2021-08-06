@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Design a Poster
+title: 2-Design a Poster
 nav_order: 3
 parent: Workshop Activities
 ---
