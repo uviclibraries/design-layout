@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Design and Layout Resources
+## Design and Layout with Canva Resources
 coming soon!
 [Visit the Design and Layout with Canva Take Home Sheet](canva-take-home-sheet.html){: .btn .btn-purple }
 
