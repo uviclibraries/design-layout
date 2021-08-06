@@ -20,7 +20,7 @@ parent: Workshop Activities
 - [About colour](https://www.youtube.com/watch?v=_2LLXnUdUIc){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_2LLXnUdUIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Typography](https://youtu.be/sByzHoiYFX0){:target="_blank"}
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/sByzHoiYFX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sByzHoiYFX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resources:
 - Professional level, diverse, and inclusive resource for free stock photography and video: [Pexels](https://www.pexels.com){:target="_blank"}
