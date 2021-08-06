@@ -5,3 +5,5 @@ nav_order: 5
 parent: Workshop Activities
 ---
 # Photo Frames and More with Canva
+
+[NEXT STEP: Canva Take Home Sheet](canva-take-home.html){: .btn .btn-blue }
