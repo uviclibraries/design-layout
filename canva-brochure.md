@@ -44,7 +44,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - In the left sidebar menu, click on **Elements** and then in the search bar, search for clipart that fits your brochure. Find one that is made of solid lines (like the globe). Click on it once to add it to the brochure. 
   - Resize it down and centre it over the text. Notice that this element has a colour swatch in the upper left corner. Click on it and change it to the Dark Blue of the brochure theme. (see below)
 <img src="images//canva-brochure-08.png" style="float:right" alt="editing spacing toolbar."> 
-<img src="images//canva-brochure-10.png" style="float:right" alt="editing spacing dropdown."> 
+<img src="images//canva-brochure-10.png" style="float:right" alt="editing spacing."> 
 8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together. Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit. Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers. 
 ![Demonstration of Step 7: Replacing an Icon](/images/canva-brochure-09.gif)
 
