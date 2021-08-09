@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Design a Poster with Canva 
-<img src="images//canva-poster-01.png" style="float:right;width:250px;height:150px" alt="poster template search bar."> 
+<img src="images//canva-poster-01.png" style="float:right;width:280px;height:140px" alt="poster template search bar."> 
 Let’s start to create a poster using a Canva template. If you have any questions, please ask!
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
