@@ -30,9 +30,5 @@ Let’s start to create a poster using a Canva template. If you have any questio
 6. Exporting & Publishing:
   - To save your poster, click on the **Download** button (arrow pointing down) on the top right of your browser, and choose a File Type. Click the teal **Download** button. Save your file in a location on your hard drive where you can find it later with a recognizable file name. Your browser may automatically save it to your Downloads folder, so if you aren’t given the option to choose a location, make sure to find it in the Downloads folder and move it somewhere of your choosing.
   - Note: PDF Print is a good choice for File Type if you want to print your poster. PNG is a good choice if you just plan to share the poster online. 
-
-The following are some examples of Canva posters 
-
-
-
+  
 [NEXT STEP: Design a Brochure](canva-brochure.html){: .btn .btn-blue }
