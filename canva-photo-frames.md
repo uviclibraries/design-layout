@@ -5,9 +5,9 @@ nav_order: 5
 parent: Workshop Activities
 ---
 # Photo Frames and More with Canva
-<img src="images//canva-photo-01.png" style="float:right;width:200px;height:170px" alt="create a design button."> 
+<img src="images//canva-photo-01.png" style="float:right;width:210px;height:180px" alt="create a design button."> 
 Here are some additional things you can do in Canva templates. If you have any questions, please ask! 
-<img src="images//canva-photo-02.png" style="float:right;width:150px;height:200px" alt="create a design button."> 
+<img src="images//canva-photo-02.png" style="float:right;width:180px;height:200px" alt="create a design button."> 
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
 <img src="images//canva-photo-03.png" style="float:right;width:200px;height:200px" alt="create a design button."> 
 2. Search for “**pink circle music festival poster**” in the search field in the top left field above the templates, and click on the poster template seen on the right to load it. 
