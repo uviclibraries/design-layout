@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
+<img src="images//canva-logo.png" style="float:right;width:180px;height:180px;"> 
 
 # Design and Layout with Canva
 
