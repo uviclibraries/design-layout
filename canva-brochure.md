@@ -5,12 +5,14 @@ nav_order: 4
 parent: Workshop Activities
 ---
 # Design a Brochure with Canva 
+<img src="images//canva-brochure-01.png" style="float:right;width:180px;height:250px" alt="colour editing boxes."> 
 Let’s start to create a poster using a Canva template. If you have any questions, please ask, and don’t forget to have fun!
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
 2. Click on the teal **Create a design** button on the top right of the screen.
   - Type **brochure** in the search box and then click on brochure just below the search box.
+  <img src="images//canva-brochure-02.png" style="float:right;width:180px;height:250px" alt="colour editing boxes."> 
   - Scroll down to the section called **Travel Brochure** and click on **See All** to bring up a selection of travel brochure ideas
   - Scroll down until you see one that is purple and yellow (see image to the right). Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the top next to the Search field. An option to use one or both of the pages/sides will come up. Click on the **Apply both pages** button to apply the template to the full brochure. 
 
