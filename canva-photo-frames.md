@@ -5,9 +5,11 @@ nav_order: 5
 parent: Workshop Activities
 ---
 # Photo Frames and More with Canva
+<img src="images//canva-photo-01.png" style="float:right;width:200px;height:170px" alt="create a design button."> 
 Here are some additional things you can do in Canva templates. If you have any questions, please ask! 
-
+<img src="images//canva-photo-02.png" style="float:right;width:150px;height:200px" alt="create a design button."> 
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
+<img src="images//canva-photo-03.png" style="float:right;width:200px;height:200px" alt="create a design button."> 
 2. Search for “**pink circle music festival poster**” in the search field in the top left field above the templates, and click on the poster template seen on the right to load it. 
 3. Click on **Photos** in the left menu and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.
 4. You might notice that this photo has a shift in colour tones. This is from the photo being adjusted with a **Filter**. To edit this, **click on the circle** image to select it, and then click on **Adjust** in the top menu bar. This will bring up a bunch of adjustment options. You can click on an option and then drag a slider. This one had **Tint** and **X-Process** fully dragged down. Alternatively, this could have been left to defaults and the **Filter** menu (right) could be used to overlay filters with preset effects. 
