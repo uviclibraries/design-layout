@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Design and Layout with Canva
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/design-layout/
