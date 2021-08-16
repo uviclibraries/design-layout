@@ -5,21 +5,21 @@ nav_order: 4
 parent: Workshop Activities
 ---
 # Design a Brochure with Canva 
-<img src="images//canva-brochure-01.png" style="float:right;width:250px;height:180px" alt="travel brochure."> 
+<img src="images//canva-brochure-01.png" style="float:right;width:250px;" alt="travel brochure."> 
 Let’s start to create a poster using a Canva template. If you have any questions, please ask, and don’t forget to have fun!
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
 2. Click on the teal **Create a design** button on the top right of the screen.
   - Type **brochure** in the search box and then click on brochure just below the search box.
-  <img src="images//canva-brochure-02.png" style="float:right;width:250px;height:180px" alt="purple and yellow tri-fold brochure and apply all button."> 
+  <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure and apply all button."> 
   - Scroll down to the section called **Travel Brochure** and click on **See All** to bring up a selection of travel brochure ideas
   - Scroll down until you see one that is purple and yellow (see image to the right). Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the top next to the Search field. An option to use one or both of the pages/sides will come up. Click on the **Apply both pages** button to apply the template to the full brochure. 
 ![Demonstration of Step 1](/images/canva-brochure-03.gif)
 3. For this exercise, we are going to show you a different way to replace images. (Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use.) 
   - Rather than deleting the images, a quick way to replace an image in a template is to leave the demo images in place, search for a replacement image, and instead of clicking on the image you’ve chosen, drag it over and drop it on top of the demo image in the poster template. 
   - It will replace the image inside the frame and will be cropped in place. If you accidentally clicked on the image and it appears in the template on top of everything, simply delete it and try to drag it again in one motion. 
- <img src="images//canva-brochure-04.png" style="float:right;width:180px;height:250px" alt="pexels and pixabay icons."> 
+ <img src="images//canva-brochure-04.png" style="float:right;width:180px;" alt="pexels and pixabay icons."> 
   - Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. Once happy, click outside the template to deselect it. 
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
