@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## Pre-Workshop Videos & Activities
+## Pre-Workshop Preparation & Activities
 This workshop is primarily hands-on practice with Canva in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Step 1: Pre-Class Videos, Readings, & Exercises: 20 minutes.**<br>
