@@ -25,6 +25,6 @@ Participants will be familiar with the following by the end of this workshop:
 4. The various types of templates available on Canva
 5. Optional: how to design a poster online using Canva
 6. Optional: how to design a brochure online using Canva
-7. Optional: how to design an infographic online using Canva
+7. Optional: how to design an infographic online using Canva 
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
