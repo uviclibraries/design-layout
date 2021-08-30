@@ -17,14 +17,13 @@ nav_order: 1
 
 ## Learning objectives
 
-Participants will be familiar with the following by the end of this workshop:
+Participants will be able to do the following by the end of this workshop:
 
-1. How to set up a free account with Canva
-2. Basic guidelines for layout
-3. Importance of image resolution for print vs digital
-4. The various types of templates available on Canva
-5. Optional: how to design a poster online using Canva
-6. Optional: how to design a brochure online using Canva
-7. Optional: how to design an infographic online using Canva 
+1. Follow best practices guidelines for design layout
+2. Use appropriately higher resolution images for print vs digital
+3. Utilize various types of templates available on Canva
+4. Optional: Design a poster online using Canva
+5. Optional: Ddesign a brochure online using Canva
+6. Optional: Design an infographic using Canva 
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
