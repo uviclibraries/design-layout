@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Design a Brochure
+title: 2-Design a Brochure
 nav_order: 4
 parent: Workshop Activities
 ---
