@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Take Home Sheet
+title: 4-Take Home Sheet
 nav_order: 6
 parent: Workshop Activities
 ---
