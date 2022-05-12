@@ -11,8 +11,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
 2. Click in the search box in the centre of the screen under "What will you design?"
-  - Type **purple yellow travel brochure** in the search box and then hit the Enter key. Scroll down to find one that is purple and yellow (see image below). Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the top next to the Search field. 
-  <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview."> 
+  - Type **purple yellow travel brochure** in the search box and then hit the Enter key. Scroll down to find one that is purple and yellow (see image to the right). <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview.">  Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the top next to the Search field. 
+  
 3. For this exercise, we are going to show you a different way to replace images. (Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use.) 
   - Rather than deleting the images, a quick way to replace an image in a template is to leave the demo images in place, search for a replacement image, and instead of clicking on the image you’ve chosen, drag it over and drop it on top of the demo image in the poster template. 
   - It will replace the image inside the frame and will be cropped in place. If you accidentally clicked on the image and it appears in the template on top of everything, simply delete it and try to drag it again in one motion. 
