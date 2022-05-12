@@ -14,7 +14,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 <img src="images//canva-poster-02.png" style="float:right;width:280px;" alt="poster template."> 
   - Type **poster** in the search box and then click on **poster** just below the search box.
   - Scroll down to the section called **Event Poster** and click on **See All** to bring up a selection of event poster ideas
-  - Type in **Oktoberfest** into the search bar to bring up the thumbnail for the poster (see image to the right). Click on it to use it for this exercise.
+  - Type in **Oktoberfest brown** into the search bar to bring up the thumbnail for the poster (see image to the right). Click on it to use it for this exercise.
 ![Demonstration of Step 2, selecting poster template](/images/canva-poster-03.gif)
 
 3. To edit the template, start by clicking on the text and graphics. You can edit the text and move or delete both the text and graphics.
