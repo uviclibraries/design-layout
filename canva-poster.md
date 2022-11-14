@@ -11,7 +11,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
  
-2. Click on the teal **Create a design** button on the top right of the screen.
+2. Click on the **Create a design** button on the top right of the screen.
 <img src="images//canva-poster-02.png" style="float:right;width:280px;" alt="poster template."> 
   - Type **poster** in the search box and then click on **poster** just below the search box.
   - Scroll down to the section called **Event Poster** and click on **See All** to bring up a selection of event poster ideas
