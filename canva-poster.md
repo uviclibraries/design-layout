@@ -14,8 +14,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 2. Click on the **Create a design** button on the top right of the screen.
 <img src="images//canva-poster-02.png" style="float:right;width:280px;" alt="poster template."> 
   - Type **poster** in the search box and then click on **poster** just below the search box.
-  - Scroll down to the section called **Event Poster** and click on **See All** to bring up a selection of event poster ideas
-  - Type in **Oktoberfest brown** into the search bar to bring up the thumbnail for the poster (see image to the right). Click on it to use it for this exercise.
+  - Type in **Oktoberfest brown** into the search bar on the left to bring up the thumbnail for the poster (see image to the right). Click on it to use it for this exercise.
 
   <button onclick="toggle('gif1')">Show/Hide Animation</button>
 <div id="gif1">
