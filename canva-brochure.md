@@ -52,10 +52,10 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together. Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit. Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers. 
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-  <div id="gif3">
-  <img src="images/gifs/canva-brochure-03.gif">
-  </div>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/gifs/canva-brochure-03.gif">
+    </div>
 
 9. **Exporting & Publishing**:
   - To save your brochure, click on the **Share** button on the top right of your browser, and select **Download**. Choose PDF Print as the File Type. Click the **Download** button. Save your file in a location on your hard drive where you can find it later with a recognizable file name. Your browser may automatically save it to your **Downloads** folder, so if you aren’t given the option to choose a location, make sure to find it in the **Downloads** folder and move it somewhere of your choosing.
