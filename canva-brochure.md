@@ -22,22 +22,15 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
-    <img src="images/canva-brochure-05.gif">
-     </div> 
-
-
 4. If Canva services do not have the free photos and elements that are quite what you are looking for, you can use websites such as [Pexels](https://www.pexels.com){:target="_blank"} or [Unsplash](https://unsplash.com){:target="_blank"} or upload your own images and logos to add to your designs. 
   - Open another browser tab and go to [**Pexels**](https://www.pexels.com/){:target="_blank"} and search for more images. Download one when you find one or more that you like. 
   - Back in Canva, click on the **Uploads** button in the left sidebar menu and then click on the **Upload an image or video** button. Find the image you just downloaded and upload it to Canva. When it’s finished loading, click on the thumbnail to add it to your design. 
   - Use the handles and the Shift key (as needed) to move, resize, and/or crop the image to fit.
 
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
-    <img src="images/canva-brochure-06.gif">
-     </div> 
-
+  <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/gifs/canva-brochure-01.gif">
+    </div> 
 
 5. Repeat these steps using Canva’s Photos, Pexels, Pixabay, or the Uploads option to replace all the images in the brochure with workshop-themed images.
 

@@ -22,4 +22,4 @@ nav_order: 10
 - [Rich McCue](https://richmccue.com/){:target="_blank"}
 - Brittany Johnson -animated Gifs 
 
-[NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Survey](workshop-survey.html){: .btn .btn-blue }
