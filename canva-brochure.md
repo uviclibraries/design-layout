@@ -13,15 +13,12 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 2. Click in the search box in the upper centre of the screen. <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview."> 
   - Type **purple yellow travel brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
-  
   - Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
   
 3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) 
   - Rather than deleting the images, a quick way to replace an image in a template is to leave the demo images in place, search for a replacement image, and instead of clicking on the image you’ve chosen, drag it over and drop it on top of the demo image in the poster template (see animated GIF below for a demo). 
   - It will replace the image inside the frame and will be cropped in place. If you accidentally clicked on the image and it appears in the template on top of everything, simply delete it and try to drag it again in one motion. 
-  
   <img src="images//canva-brochure-04.png" style="float:right;width:200px;" alt="pexels and pixabay icons."> 
-
   - Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. Once happy, click outside the template to deselect it. 
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
@@ -41,7 +38,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 6. Changing the colour scheme:
   - Click on one of the yellow colour blocks. Up in the left corner you will see a little yellow swatch appear. You can click on this to bring up colour options. You can choose any of the default colours, or if you know colour names or the Hex codes for specific colours, you can search for them here. For this workshop example, we used the official UVic Yellow and Hex Code: **#F5AA1C** for yellow and the Dark Blue Hex Code: **#002754** to change the purple blocks. 
   - Once you’ve added the new colours, they will show up under **Document Colours** and so you don’t have to keep searching for them.
-  - Change the text colours to match by clicking on the text box you want to change, and then up in the text menu at the top of the screen, click on the **A** button with the colour bar under it, and then choose a colour swatch. (See below for example.)
+  - Change the text colours to match by clicking on the text box you want to change, and then up in the text menu at the top of the screen, click on the **A** button with the colour bar under it, and then choose a colour.
    
    <button onclick="toggle('gif2')">Show/Hide Animation</button>
    <div id="gif2">
@@ -56,9 +53,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
 8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together.  
 - Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit.   
 <img src="images//canva-brochure-08.png" style="margin-left:20px;" alt="editing spacing toolbar.">
-- Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.
-
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+- Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.<br>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/gifs/canva-brochure-03.gif">
     </div>
