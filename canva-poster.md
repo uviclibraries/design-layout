@@ -37,7 +37,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Once either the box or the font is resized, you will need to drag the text box back to centre. A red line will appear in the middle when you have successfully centred the box. 
   - To undo any changes and try different edits, click on the backward arrow in the top right of the screen. 
   - Edit the text in the next box below it to say “**Make your own poster online in Canva**” and change the font size to **24** by clicking in the upper font editing menu. Again drag the box to make sure it sits in the centre using the red line as a guide.
-  <img src="images/canva-poster-07.png" style="float:right;width:500px; border:2px solid #555" alt="text toolbar"> 
+  <img src="images/canva-poster-07.png" style="width:500px; border:2px solid #555" alt="text toolbar"> 
   - Continue with the rest of the text, making changes to font sizes as needed. 
   <img src="images//canva-poster-06.png" style="float:right;width:240px;" alt="colour editing boxes."> 
 
