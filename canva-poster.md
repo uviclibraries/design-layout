@@ -7,17 +7,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Design a Poster with Canva 
 Let’s start to create a poster using a Canva template. If you have any questions, please ask!
-<img src="images/canva-poster-01.png" style="float:right;width:140px;" alt="poster template.">
 
-1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
+1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}<img src="images/canva-poster-01.png" style="float:right;width:140px;" alt="poster template.">
 
-2. Click on the **Create a design** button on the top right of the screen. <img src="images/canva-poster-oktoberfest.png" style="float:right;width:200px;" alt="poster template.">
+2. Click on the **Create a design** button on the top right of the screen. 
   - Type **poster** in the search box and then click on **poster** just below the search box.
-  - Type in **Oktoberfest brown** into the search bar on the left to bring up the thumbnail for the poster (see image to the right). Click on it to use it for this exercise.
+  - Type in **Oktoberfest brown** into the search bar on the left to bring up the thumbnail for the poster (see image). Click on it to use it for this exercise.
 
-  <br>
-  <br>
-
+    <img src="images/canva-poster-oktoberfest.png" style="margin-left:10px; width:200px;" alt="poster template.">
+   <br>
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
    <div id="gif1">
    <img src="images/gifs/canva-poster-01.gif">
