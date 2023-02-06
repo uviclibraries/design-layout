@@ -6,17 +6,22 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Design a Brochure with Canva 
-<img src="images//canva-brochure-01.png" style="float:right;width:250px;" alt="travel brochure."> 
+
 Let’s start to create a poster using a Canva template. If you have any questions, please ask, and don’t forget to have fun!
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
-2. Click in the search box in the upper centre of the screen.
-  - Type **purple yellow travel brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right). <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview.">  Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
+2. Click in the search box in the upper centre of the screen. <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview."> 
+  - Type **purple yellow travel brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
+  
+  - Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
   
 3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) 
   - Rather than deleting the images, a quick way to replace an image in a template is to leave the demo images in place, search for a replacement image, and instead of clicking on the image you’ve chosen, drag it over and drop it on top of the demo image in the poster template (see animated GIF below for a demo). 
-  - It will replace the image inside the frame and will be cropped in place. If you accidentally clicked on the image and it appears in the template on top of everything, simply delete it and try to drag it again in one motion. <img src="images//canva-brochure-04.png" style="float:right;width:180px;" alt="pexels and pixabay icons."> 
+  - It will replace the image inside the frame and will be cropped in place. If you accidentally clicked on the image and it appears in the template on top of everything, simply delete it and try to drag it again in one motion. 
+  
+  <img src="images//canva-brochure-04.png" style="float:right;width:200px;" alt="pexels and pixabay icons."> 
+
   - Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. Once happy, click outside the template to deselect it. 
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
@@ -46,13 +51,14 @@ Let’s start to create a poster using a Canva template. If you have any questio
 7. Replace the icon:
   - Next we will replace the globe icon with  another icon. First, click on the globe to select it, and then delete it.
   - In the left sidebar menu, click on **Elements** and then in the search bar, search for clipart that fits your brochure. Find one that is made of solid lines (like the globe). Click on it once to add it to the brochure. 
-  - Resize it down and centre it over the text. Notice that this element has a colour swatch in the upper left corner. Click on it and change it to the Dark Blue of the brochure theme. (see below)
-  <img src="images//canva-brochure-08.png" style="float:right" alt="editing spacing toolbar."> 
-  <img src="images//canva-brochure-10.png" style="float:right" alt="editing spacing."> 
+  - Resize it down and centre it over the text. Notice that this element has a colour swatch in the upper left corner. Click on it and change it to the Dark Blue of the brochure theme.
 
-8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together. Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit. Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers. 
+8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together.  
+- Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit.   
+<img src="images//canva-brochure-08.png" style="margin-left:20px;" alt="editing spacing toolbar.">
+- Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.
 
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+  <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/gifs/canva-brochure-03.gif">
     </div>
