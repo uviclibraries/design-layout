@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Photo Frames & More with Canva
-<img src="images//canva-photo-01.png" style="float:right;width:210px;" alt="create a design button, select poster."> 
+<img src="images//canva-photo-01.png" style="float:right;margin-left:10px; width:260px;" alt="create a design button, select poster."> 
 Here are some additional things you can do in Canva templates. If you have any questions, please ask! 
 
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
@@ -36,7 +36,7 @@ Here are some additional things you can do in Canva templates. If you have any q
   - Once happy, click outside the template to deselect it.
 
 7. Click on the shape again once to reselect it, and then click on the **red color swatch icon** in the top menu to change the border of the heart (white was used in this example).<br> 
-  <img src="images//canva-photo-09.png" style="margin-left:10px; margin-left:20px; width:200px;" alt="Heart border.">
+  <img src="images//canva-photo-09.png" style="margin-left:10px; margin-left:20px; width:300px;" alt="Heart border.">
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
@@ -52,11 +52,13 @@ Here are some additional things you can do in Canva templates. If you have any q
 
 10. Other things to learn within this template that are useful to know: click on the pink rectangle box at the bottom of the poster design, and then click on the checkered **Transparency** menu button in the top right menu bar. In there you can adjust how transparent your coloured boxes (and other elements with transparency options, including photos) are. 
   ![Transparency and position editing menu](/images/canva-photo-12.png)
-  
-      <img src="images//canva-photo-13.png" style="float:right;width:200px;" alt="Another position editing menu.">
+
+      <img src="images//canva-photo-13.png" style="float:right;margin-left:10px; width:250px;" alt="Another position editing menu.">
+      <br>
 
 11. You can also opt to bring the image to the layer above the box by selecting the image and then clicking on **Position** in the top right menu bar and clicking on **Forward**. You’ll notice in the example to the right, that the spaces between the grid are transparent so you can see the pink box between the grid now that the image is in front.
 
+<br>
   <button onclick="toggle('gif3')">Show/Hide Animation</button>
   <div id="gif3">
   <img src="images/gifs/canva-photo-03.gif">
