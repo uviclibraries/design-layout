@@ -11,11 +11,11 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
-2. Click in the search box in the upper centre of the screen. <img src="images//canva-brochure-02.png" style="float:right;width:250px;" alt="purple and yellow tri-fold brochure preview."> 
+2. Click in the search box in the upper centre of the screen. <img src="images/canva-brochure-02.png" style="float:right;width:260px;" alt="purple and yellow tri-fold brochure preview."> 
   - Type **purple yellow travel brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
   - Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
 
-3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) <img src="images//canva-brochure-04.png" style="float:right;width:200px;" alt="pexels and pixabay icons.">
+3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) <img src="images/canva-brochure-04.png" style="float:right;margin-left:10px; width:200px;" alt="pexels and pixabay icons.">
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
   - Rather than deleting the old images, a quick way to replace an image in a template is to leave the demo images in place, search for a replacement image, and instead of clicking on the image you’ve chosen, drag it over and drop it on top of the demo image in the poster template (see animated GIF below for a demo). 
