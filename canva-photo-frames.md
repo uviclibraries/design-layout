@@ -14,9 +14,8 @@ Here are some additional things you can do in Canva templates. If you have any q
 2. Search for “**pink circle music festival poster**” in the search field in the top left field above the templates, and click on the poster template shown below to load it.<br>
 <img src="images//canva-photo-02b.png" style="margin-left:20px; width:250px;" alt="poster template.">
 
-3. Click on **Elements** in the left menu, scroll to **photos** then select **see all** and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.
-<img src="images//canva-photo-03.png" style="margin-left:20px; width:220px;" alt="changing the circle image."> 
-
+3. Click on **Elements** in the left menu, scroll to **photos** then select **see all** and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.<br>
+  <img src="images//canva-photo-03.png" style="margin-left:20px; width:220px;" alt="changing the circle image."> <br>
   <img src="images//canva-photo-04b.png" style="float:right;width:220px;" alt="colour filters.">
 
 4. You might notice that this photo has a shift in colour tones. This is from the photo being adjusted with a **Filter**. To edit this, **click on the circle** image to select it, and then click on **Edit image** in the top menu bar. This will bring up a bunch of adjustment options. You can click on an option and then drag a slider. Alternatively, this could be left to defaults and the **Filters** could be used to overlay filters with preset effects.<br>
@@ -25,10 +24,13 @@ Here are some additional things you can do in Canva templates. If you have any q
     <img src="images/gifs/canva-photo-01.gif">
     </div> 
 
-5. If you want to change this photo frame from a circle to another shape, first **delete the circle image** and then click on **Elements** in the left sidebar menu. Look for **Frames** and then click on **See All**. Scroll down or type **heart** in the search bar to find the heart and click on it to add it to the poster. 
-  <img src="images/canva-photo-06.png" style="float:right;width:180px;" alt="Changing photo frame.">
-
-6. From **Elements** Go into **Photos** and drag in a new photo to the shape to add it. Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. Once happy, click outside the template to deselect it. <img src="images/canva-photo-07.png" style="margin-left:10px; float:right;width:200px;" alt="Editing colour palette.">
+5. Change this photo frame from a circle to another shape.<img src="images/canva-photo-05.png" style="float:right;width:200px;" alt="frames">
+  - **delete the circle image** and then click on **Elements** in the left sidebar menu. Look for **Frames** and then click on **See All**. 
+  - Scroll down or type **heart** in the search bar to find the heart and click on it to add it to the poster. 
+  
+6. From **Elements**, go into **Photos** and drag in a new photo to the shape to add it. <img src="images/canva-photo-06.png" style="float:right;width:200px;" alt="Changing photo frame.">
+  - Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. 
+  - Once happy, click outside the template to deselect it. <img src="images/canva-photo-07.png" style="margin-left:10px; float:right;width:200px;" alt="Editing colour palette.">
 
 7. Click on the shape again once to reselect it, and then click on the **red color swatch icon** in the top menu to change the border of the heart. (White was used in this example to the right.) <img src="images//canva-photo-09.png" style="margin-left:10px; float:right;width:180px;" alt="Heart border.">
 
