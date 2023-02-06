@@ -14,13 +14,12 @@ Here are some additional things you can do in Canva templates. If you have any q
 2. Search for “**pink circle music festival poster**” in the search field in the top left field above the templates, and click on the poster template shown below to load it.<br>
 <img src="images//canva-photo-02b.png" style="margin-left:20px; width:250px;" alt="poster template.">
 
-  <img src="images//canva-photo-03.png" style="float:right; width:200px;" alt="changing the circle image."> 
+3. Click on **Elements** in the left menu, scroll to **photos** then select **see all** and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.
+<img src="images//canva-photo-03.png" style="margin-left:20px; width:220px;" alt="changing the circle image."> 
 
-3. Click on **Elements** in the left menu, scroll to **photos** then select **see all** and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.<br>
+  <img src="images//canva-photo-04b.png" style="float:right;width:220px;" alt="colour filters.">
 
-  <img src="images//canva-photo-04.png" style="float:right;width:200px;" alt="colour filters.">
-
-4. You might notice that this photo has a shift in colour tones. This is from the photo being adjusted with a **Filter**. To edit this, **click on the circle** image to select it, and then click on **Edit image** in the top menu bar. This will bring up a bunch of adjustment options. You can click on an option and then drag a slider. Alternatively, this could have been left to defaults and the **Filter** menu (right) could be used to overlay filters with preset effects.<br>
+4. You might notice that this photo has a shift in colour tones. This is from the photo being adjusted with a **Filter**. To edit this, **click on the circle** image to select it, and then click on **Edit image** in the top menu bar. This will bring up a bunch of adjustment options. You can click on an option and then drag a slider. Alternatively, this could be left to defaults and the **Filters** could be used to overlay filters with preset effects.<br>
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/gifs/canva-photo-01.gif">
