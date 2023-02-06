@@ -14,10 +14,9 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Type **poster** in the search box and then click on **poster** just below the search box.
   - Type in **Oktoberfest brown** into the search bar on the left to bring up the thumbnail for the poster (see image). Click on it to use it for this exercise.
 
-    <img src="images/canva-poster-oktoberfest.png" style="margin-left:10px; width:200px;" alt="poster template.">
+    <img src="images/canva-poster-oktoberfest.png" style="margin-left:20px; width:250px;" alt="poster template."><br>
 
    <br>
-
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
    <div id="gif1">
    <img src="images/gifs/canva-poster-01.gif">
@@ -34,14 +33,16 @@ Let’s start to create a poster using a Canva template. If you have any questio
    </div>  
 
 4. Next, we will edit the text. Click in the text box to change the word Oktoberfest to **Poster Design**. 
-  <img src="images//canva-poster-05.png" style="float:right;width:200px;" alt="colour editing boxes."> 
+  <img src="images//canva-poster-05.png" style="float:right;width:250px;" alt="poster design text"> 
  - The text will be just slightly too long for the text box so you will need to drag the box to make it larger, or make the font size smaller. This is a design choice and may require testing to decide which looks best. 
   - Once either the box or the font is resized, you will need to drag the text box back to centre. A red line will appear in the middle when you have successfully centred the box. 
   - To undo any changes and try different edits, click on the backward arrow in the top right of the screen. 
   - Edit the text in the next box below it to say “**Make your own poster online in Canva**” and change the font size to **24** by clicking in the upper font editing menu. Again drag the box to make sure it sits in the centre using the red line as a guide.
-  
-  <img src="images/canva-poster-07.png" style="width:500px; border:2px solid #555" alt="text toolbar"> 
+
+  <img src="images/canva-poster-07.png" style="width:550px; margin-left:20px; border:2px solid #555" alt="text toolbar"> 
+
   - Continue with the rest of the text, making changes to font sizes as needed. 
+
   <img src="images//canva-poster-06.png" style="float:right;width:240px;" alt="colour editing boxes."> 
 
 5. If you want to change the colours of the boxes, click on one to select it. Up in the left corner you will see a little colour swatch appear, the same colour of the box. You can click on this to bring up colour options. You can choose any of the default colours, or if you know colour names or the Hex codes for specific colours, you can search for them here. Once you’ve added the new colours, they will show up under Document Colours and so you don’t have to keep searching for them.
