@@ -11,7 +11,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 1. Create a Canva account at [canva.com](https://www.canva.com/){:target="_blank"}
 
-2. Click in the search box in the upper centre of the screen. <img src="images/canva-brochure-02.png" style="float:right;width:260px;" alt="purple and yellow tri-fold brochure preview."> 
+2. Click in the search box in the upper centre of the screen. <img src="images/canva-brochure-02.png" style="float:right;width:300px;" alt="purple and yellow tri-fold brochure preview."> 
   - Type **purple yellow travel brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
   - Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
 
@@ -30,10 +30,10 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/gifs/canva-brochure-01.gif">
+    <img src="images/gifs/canva-brochure-01b.gif">
     </div> 
 
-5. Repeat these steps using Canva’s Photos, Pexels, Pixabay, or the Uploads option to replace all the images in the brochure with workshop-themed images.
+5. Repeat these steps using Canva’s Photos, Pexels, Pixabay, or the Uploads option to replace all the images in the brochure with new images.
 
 6. Changing the colour scheme:
   - Click on one of the yellow colour blocks. Up in the left corner you will see a little yellow swatch appear. You can click on this to bring up colour options. You can choose any of the default colours, or if you know colour names or the Hex codes for specific colours, you can search for them here. For this workshop example, we used the official UVic Yellow and Hex Code: **#F5AA1C** for yellow and the Dark Blue Hex Code: **#002754** to change the purple blocks. 
