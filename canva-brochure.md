@@ -42,7 +42,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
    
    <button onclick="toggle('gif2')">Show/Hide Animation</button>
    <div id="gif2">
-   <img src="images/gifs/canva-brochure-02.gif">
+   <img src="images/gifs/canva-brochure-02b.gif">
    </div> 
 
 7. Replace the icon:
@@ -56,7 +56,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 - Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.<br>
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
-    <img src="images/gifs/canva-brochure-03.gif">
+    <img src="images/gifs/canva-brochure-03b.gif">
     </div>
 
 9. **Exporting & Publishing**:
