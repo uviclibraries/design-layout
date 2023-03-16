@@ -4,7 +4,7 @@ title: 4-Bonus: Academic Poster Tips
 nav_order: 6
 parent: Workshop Activities
 ---
-# Bonus: Academic Poster Tips with Canva
+# Academic Poster Tips with Canva
 <img src="images//canva-photo-01.png" style="float:right;margin-left:10px; width:260px;" alt="create a design button, select poster."> 
 Here are some tips for creating an academic poster using Canva. If you have any questions, please ask! 
 
