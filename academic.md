@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # Academic Poster Tips with Canva
-<img src="images//canva-photo-08.png" style="float:right;margin-left:10px; width:260px;"> 
+<img src="images//canva-poster-08.png" style="float:right;margin-left:10px; width:260px;"> 
 Here are some tips for creating an academic poster using Canva. If you have any questions, please ask! 
 
 **1. Option B: Use a Canva Template:**
