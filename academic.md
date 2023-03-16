@@ -3,7 +3,6 @@ layout: default
 title: 4-Bonus: Academic Poster Tips
 nav_order: 6
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Bonus: Academic Poster Tips with Canva
 <img src="images//canva-photo-01.png" style="float:right;margin-left:10px; width:260px;" alt="create a design button, select poster."> 
@@ -17,22 +16,5 @@ Here are some tips for creating an academic poster using Canva. If you have any 
   -Note: there are not any Canva-created templates for academic posters. You can put **poster** in the upper left **search templates** field and see if there are any with elements that will be a good starting base for your poster. 
   -Once you have picked a starting point for your poster, you can click on **Styles** in the upper left corner for even more ideas. Here you can find **Color Palattes** and **Font Sets**. If you click on an individual palette multiple times, this will cycle your design through various ways the same colour combo can display in the design.
 
-
-<br>
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-  <div id="gif3">
-  <img src="images/gifs/canva-photo-03.gif">
-  </div> 
-
-  <script>  
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
 
 [NEXT STEP: Canva Take Home Sheet](canva-take-home-sheet.html){: .btn .btn-blue }
