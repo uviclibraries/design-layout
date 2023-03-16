@@ -14,7 +14,7 @@ Here are some tips for creating an academic poster using Canva. If you have any 
    - Once you have picked a starting point for your poster, you can click on **Styles** in the upper left corner for even more ideas. (You will need to clear the search field because "Research Posters" will still be there and searching the Styles list. Click on the X to get rid of it and bring up the list of Styles options.) Here you can find **Color Palattes** and **Font Sets**. If you click on an individual Color Palette multiple times, this will cycle your design through various ways the same colour combo can display in the design.
   
 **2. Option A: Use an UVic-themed Academic Poster template:**
-   - If you want to work with a template we made, you can click here to access our template based on the #BetterPoster format (see right), and start working on it: [UVic themed #BetterPoster template](https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view?utm_content=DAFYzpd1yU8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview){:target="_blank"}
+   - If you want to work with a template we made, you can click here to access our template based on the #BetterPoster format (see example above), and start working on it: [UVic themed #BetterPoster template](https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view?utm_content=DAFYzpd1yU8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview){:target="_blank"}
 
 
 [NEXT STEP: Canva Take Home Sheet](canva-take-home-sheet.html){: .btn .btn-blue }
