@@ -75,4 +75,4 @@ Here are some additional things you can do in Canva templates. If you have any q
     }
 </script>
 
-[NEXT STEP: Canva Take Home Sheet](canva-take-home-sheet.html){: .btn .btn-blue }
+[NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue }
