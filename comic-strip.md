@@ -18,6 +18,7 @@ parent: Workshop Activities
 10. Click on the person to duplicate the graphic or add another item by searching.
 11. To insert a personal photo. Click on upload and drag and drop the photo of your choice.
 
+### Example of Comic Strip in Canva
   <img src="images/comic-strip.png" style="width:600px;" alt="comic strip example project"><br>
 
 [NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue } <br>
