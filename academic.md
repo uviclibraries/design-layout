@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4-Bonus Academic Poster Tips
-nav_order: 6
+title: 5-Bonus Academic Poster Tips
+nav_order: 7
 parent: Workshop Activities
 ---
 # Academic Poster Tips with Canva
