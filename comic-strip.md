@@ -20,4 +20,4 @@ parent: Workshop Activities
 
 <img src="images/comic-strip.png" style="width:300px" alt=”comic strip example project”>
 
-[NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue } or<br>
+[NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue } <br>
