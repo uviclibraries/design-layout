@@ -13,13 +13,13 @@ parent: Workshop Activities
 <img src="images//template2-comic.png" style="width:250px;" alt="Template Design"> 
 4. Give your Comic a **title** such as **Library Rules**. You can modify the size, color and writing font by selecting the text and modifying it on the top toolbar.
 5. Next add graphics by selecting **elements** on the left side pannel and don't forget to select graphics (see image). <img src="images//elements.png" style="float:right;margin-left:10px; width:260px;" alt="Elements."> 
-6. Find graphics and select one that you like or search for a specific element using the search bar. Note some are pro options and cost so look for ones without the crown in the corner. You can start by searching people or more specifically student or even more specifically student studying. You can filter free elements by typing **free** at the end of the search to help narrow the selections. Not all will actually be free. 
+6. Find graphics and select one that you like or search for a specific element using the search bar. Note some are pro options and cost so look for ones without the crown in the corner. You can start by searching people or more specifically student or even more specifically student studying. You can filter free elements by typing **free** at the end of the search to help narrow the selections. Not all will actually be free.<br> 
 7. Right click on that graphic and select **view collection**.<img src="images//view-collection.png" style="float:right;margin-left:10px; width:260px;" alt="Photo Collections."> 
-- You can duplicate a graphicby right clicking or change colours by clicking on the element and using upper tool bar. 
-8. Next under elements add a speech bubble by searching speech bubble in the search bar. Some speech bubbles require you to add text separately.
-9. Type what the person wants to say. In this example: (Woah did you see that?)
-10. Click on the person to duplicate the graphic or add another item by searching.
-11. To insert a personal photo. Click on upload and drag and drop the photo of your choice.
+- You can duplicate a graphic by right clicking or change colours by clicking on the element and using upper tool bar.<br>
+8. Next under elements add a speech bubble by searching speech bubble in the search bar. Some speech bubbles require you to add text separately.<br>
+9. Type what the person wants to say. In this example: (Woah did you see that?)<br>
+10. Click on the person to duplicate the graphic or add another item by searching.<br>
+11. To insert a personal photo. Click on upload and drag and drop the photo of your choice.<br>
 
 ### Example of Comic Strip in Canva
   <img src="images/comic-strip.png" style="width:600px;" alt="comic strip example project"><br>
