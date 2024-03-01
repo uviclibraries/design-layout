@@ -18,6 +18,6 @@ parent: Workshop Activities
 10. Click on the person to duplicate the graphic or add another item by searching.
 11. To insert a personal photo. Click on upload and drag and drop the photo of your choice.
 
-<img src="images/comic-strip.png" style="width:300px" alt=”comic strip example project”>
+<img src="images//comic-strip.png" style="width:300px" alt=”comic strip example project”>
 
 [NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue } <br>
