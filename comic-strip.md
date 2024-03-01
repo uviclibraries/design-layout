@@ -5,8 +5,8 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # Comic Strips with Canva 
-
-1. Visit this [link](https://www.canva.com/create/comic-strips/){:target="_blank"} and click **Start Designing a Comic Strip**. <img src="images//start-designing-comic.png" style="float:right;margin-left:10px; width:260px;" alt="start designing a comic strip button."> 
+<img src="images//start-designing-comic.png" style="float:right;margin-left:10px; width:260px;" alt="start designing a comic strip button."> 
+1. Visit this [link](https://www.canva.com/create/comic-strips/){:target="_blank"} and click **Start Designing a Comic Strip**. 
 2. Select a template. We suggest using the search bar to find the template titled **Blank 4 Panel Rectangles Comic Strip** (see picture) <img src="images//template-comic.png" style="float:right;margin-left:10px; width:260px;" alt="Template"> 
 4. Next out the options click the design you wish to use. For this workshop I will work with the **Black and White Illustrative Interactive Activity About Classroom Rules template**.
 <img src="images//template2-comic.png" style="width:300px;" alt="Template Design"> 
