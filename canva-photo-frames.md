@@ -12,7 +12,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
 
 2. Search for “**pink circle music festival poster**” in the search field in the top left field above the templates, and click on the poster template shown below to load it.<br>
-<img src="images//canva-photo-02.png" style="margin-left:20px; width:250px;" alt="poster template.">
+<img src="images//photoframe-template.png" style="margin-left:20px; width:250px;" alt="poster template.">
 
 
 3. Click on **Elements** in the left menu, scroll to **photos** then select **see all** and choose a photo. Instead of clicking on it, **drag it over and drop it on top of the circle image** in the poster template. It will replace the image inside the circle frame and will be cropped into a circle.<br>
