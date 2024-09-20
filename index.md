@@ -23,7 +23,7 @@ Participants will be able to do the following by the end of this workshop:
 2. Use appropriately higher resolution images for print vs digital
 3. Utilize various types of templates available on Canva
 4. Optional: Design a poster online using Canva
-5. Optional: Ddesign a brochure online using Canva
+5. Optional: Design a brochure online using Canva
 6. Optional: Design an infographic using Canva 
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
