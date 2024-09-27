@@ -45,7 +45,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
    
    <button onclick="toggle('gif3')">Show/Hide Animation</button>
    <div id="gif3">
-   <img src="images/gifs/canva-brochure-02b.gif">
+   <img src="images/gifs/canva-brochure-3.gif">
    </div> 
 
 7. Replace the icon:
