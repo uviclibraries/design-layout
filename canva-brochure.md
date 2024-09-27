@@ -42,7 +42,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Click on one of the yellow colour blocks. Up in the left corner you will see a little yellow swatch appear. You can click on this to bring up colour options. You can choose any of the default colours, or if you know colour names or the Hex codes for specific colours, you can search for them here. For this workshop example, we used the official UVic Yellow and Hex Code: **#F5AA1C** for yellow and the Dark Blue Hex Code: **#002754** to change the purple blocks. 
   - Once you’ve added the new colours, they will show up under **Document Colours** and so you don’t have to keep searching for them.
   - Change the text colours to match by clicking on the text box you want to change, and then up in the text menu at the top of the screen, click on the **A** button with the colour bar under it, and then choose a colour.
-   
+   - Note the animated Gif only shows some change of colour, make sure to have all text and elements match the colour scheme. 
    <button onclick="toggle('gif3')">Show/Hide Animation</button>
    <div id="gif3">
    <img src="images/gifs/canva-brochure-3.gif">
