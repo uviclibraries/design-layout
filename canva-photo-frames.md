@@ -52,7 +52,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 10. Other things to learn within this template that are useful to know: click on the pink rectangle box at the bottom of the poster design, and then click on the checkered **Transparency** menu button in the top right menu bar. In there you can adjust how transparent your coloured boxes (and other elements with transparency options, including photos) are. 
   ![Transparency and position editing menu](/images/canva-photo-12.png)
 
-      <img src="images//canva-photo-13.png" style="float:right;margin-left:10px; width:250px;" alt="Another position editing menu.">
+      <img src="images//canva-photo-grid.png" style="float:right;margin-left:10px; width:250px;" alt="Another position editing menu.">
       <br>
 
 11. You can also opt to bring the image to the layer above the box by selecting the image and then clicking on **Position** in the top right menu bar and clicking on **Forward**. You’ll notice in the example to the right, that the spaces between the grid are transparent so you can see the pink box between the grid now that the image is in front.
