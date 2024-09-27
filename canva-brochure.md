@@ -13,8 +13,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
 2. Click in the search box in the upper centre of the screen. <img src="images/brochure-new.png" style="float:right;width:300px;" alt="purple and yellow tri-fold brochure preview."> 
   - Type **Yellow and purple modern geometric simple fundraising charity brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
-  - Click on it to use it for this exercise. This template sometimes doesn’t come up if filters are turned on for Free, since there are premium images in this template. You may need to clear the Filter in the left hand sidebar menu by going down to the **Price** section and unchecking the box for **Free**. 
-
+  - Click on it to use it for this exercise. 
 3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) <img src="images/canva-brochure-04.png" style="float:right;margin-left:10px; width:200px;" alt="pexels and pixabay icons.">
   - To find new photos, mouse over to the menu on the left side of your screen and click on **More**. This will bring up some additional image search options. Click on the **Pexels** or **Pixabay** icon to add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
