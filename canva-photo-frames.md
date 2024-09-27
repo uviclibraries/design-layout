@@ -42,7 +42,7 @@ Here are some additional things you can do in Canva templates. If you have any q
     <img src="images/gifs/canva-photo-2.gif">
     </div>
 
-8. Next, we will swap the heart for a grid. <img src="images//canva-photo-11.png" style="float:right; margin-left:10px; width:250px;" alt="Grid frame.">
+8. Next, we will swap the heart for a grid. 
  - Delete the heart and click on **Elements** in the left sidebar menu. You may have to exit the last Frames search to get back into the main Elements list. Look for **Grids** and then click on **See All**.  
  - Find a grid you like and click on it to add it to your poster. It will fill up the whole poster, but for this exercise, we are going to resize it down to the size of the circle and heart images used previously. 
   - Use the handles on the sides and corners of the grid to get it down to size and drag it toward the centre until a long red bar appears to let you know that you’ve aligned it to the middle. 
