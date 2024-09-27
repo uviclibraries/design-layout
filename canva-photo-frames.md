@@ -24,7 +24,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/gifs/canva-photo-01.gif">
+    <img src="images/gifs/canva-photo-1.gif">
     </div> 
 
 5. Change this photo frame from a circle to another shape.<img src="images/canva-photo-05.png" style="float:right;width:220px;" alt="frames">
