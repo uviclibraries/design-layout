@@ -29,7 +29,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
 5. Change this photo frame from a circle to another shape.<img src="images/canva-photo-05.png" style="float:right;width:220px;" alt="frames">
   - **delete the circle image** and then click on **Elements** in the left sidebar menu. Look for **Frames** and then click on **See All**. 
-  - Scroll down or type **heart** in the search bar to find the heart and click on it to add it to the poster. <img src="images/canva-photo-06.png" style="float:right;width:200px;" alt="Changing photo frame.">
+  - Scroll down or type **heart** in the search bar to find the heart and click on it to add it to the poster. <img src="images/heart-guitar.png" style="float:right;width:200px;" alt="Changing photo frame.">
   
 6. From **Elements**, go into **Photos** and drag in a new photo to the shape to add it. 
   - Once the photo is inside the shape, you can **double click** on it and the whole photo will appear, slightly greyed out and you will be able to resize and move it to fit into the shape where you want it. 
