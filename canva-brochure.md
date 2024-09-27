@@ -14,9 +14,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
 2. Click in the search box in the upper centre of the screen. <img src="images/brochure-new.png" style="float:right;width:300px;" alt="purple and yellow tri-fold brochure preview."> 
   - Type **Yellow and purple modern geometric simple fundraising charity brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
   - Click on it to use it for this exercise.
-
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/gifs/canva-brochure-0.gif">
     </div> 
 
@@ -33,8 +32,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Back in Canva, click on the **Uploads** button in the left sidebar menu and then click on the **Upload an image or video** button. Find the image you just downloaded and upload it to Canva. When it’s finished loading, click on the thumbnail to add it to your design. 
   - Use the handles and the Shift key (as needed) to move, resize, and/or crop the image to fit.
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
     <img src="images/gifs/canva-brochure-01b.gif">
     </div> 
 
@@ -45,8 +44,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Once you’ve added the new colours, they will show up under **Document Colours** and so you don’t have to keep searching for them.
   - Change the text colours to match by clicking on the text box you want to change, and then up in the text menu at the top of the screen, click on the **A** button with the colour bar under it, and then choose a colour.
    
-   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-   <div id="gif2">
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+   <div id="gif3">
    <img src="images/gifs/canva-brochure-02b.gif">
    </div> 
 
@@ -59,8 +58,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
 - Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit.   
 <img src="images//canva-brochure-08.png" style="margin-left:20px;" alt="editing spacing toolbar.">
 - Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.<br>
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
     <img src="images/gifs/canva-brochure-03b.gif">
     </div>
 
