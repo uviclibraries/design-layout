@@ -36,7 +36,6 @@ Here are some additional things you can do in Canva templates. If you have any q
   - Once happy, click outside the template to deselect it.
 
 7. Click on the shape again once to reselect it, and then click on the **red color swatch icon** in the top menu to change the border of the heart (white was used in this example).<br> 
-  <img src="images//canva-photo-09.png" style="margin-left:10px; margin-left:20px; width:300px;" alt="Heart border.">
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
