@@ -16,7 +16,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Click on it to use it for this exercise.
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/gifs/canva-brochure-0.gif">
+    <img src="images/canva-brochure-0.gif">
     </div> 
 
 3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) <img src="images/canva-brochure-04.png" style="float:right;margin-left:10px; width:200px;" alt="pexels and pixabay icons.">
