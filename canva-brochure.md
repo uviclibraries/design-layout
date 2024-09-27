@@ -18,7 +18,6 @@ Let’s start to create a poster using a Canva template. If you have any questio
     <div id="gif1">
     <img src="images/canva-brochure-0.gif">
     </div> 
-
 3. For this exercise, we are going to show you a different way to replace images. (_Note: all the images with watermarks on them indicate images that are part of the premium membership with Canva or are charged per use._) <img src="images/canva-brochure-04.png" style="float:right;margin-left:10px; width:200px;" alt="pexels and pixabay icons.">
   - To find new photos, mouse over to the menu on the left side of your screen and click on **Apps**. Search Canva apps using the search bar, and type **Pexels** or **Pixabay**. Click on the icon and press open. This should add it to your left sidebar menu. 
   - A search bar will appear in the top with “Search Pexels (or Pixabay) for free images” in grey in it. Use this search bar to search keywords and find an image you like. Clicking on the image of your choice in the search results will add it to your poster. 
@@ -34,7 +33,7 @@ Let’s start to create a poster using a Canva template. If you have any questio
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/gifs/canva-brochure-01b.gif">
+    <img src="images/gifs/canva-brochure-1.gif">
     </div> 
 
 5. Repeat these steps using Canva’s Photos, Pexels, Pixabay, or the Uploads option to replace all the images in the brochure with new images.
