@@ -40,7 +40,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/gifs/canva-photo-02.gif">
+    <img src="images/gifs/canva-photo-2.gif">
     </div>
 
 8. Next, we will swap the heart for a grid. <img src="images//canva-photo-11.png" style="float:right; margin-left:10px; width:250px;" alt="Grid frame.">
