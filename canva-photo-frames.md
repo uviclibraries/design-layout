@@ -60,7 +60,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 <br>
   <button onclick="toggle('gif3')">Show/Hide Animation</button>
   <div id="gif3">
-  <img src="images/gifs/canva-photo-03.gif">
+  <img src="images/gifs/canva-photo-3.gif">
   </div> 
 
   <script>  
