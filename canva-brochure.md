@@ -15,8 +15,8 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Type **Yellow and purple modern geometric simple fundraising charity brochure** in the search box and then hit the Enter key. In the left hand sidebar, go down to the **Filters** section and check the box next to **Brochure** to filter only brochure templates. Scroll down to find one that is purple and yellow (see image to the right).
   - Click on it to use it for this exercise.
 
-    <button onclick="toggle('gif0')">Show/Hide Animation</button>
-    <div id="gif0">
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
     <img src="images/gifs/canva-brochure-0.gif">
     </div> 
 
