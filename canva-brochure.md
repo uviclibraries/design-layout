@@ -54,12 +54,12 @@ Let’s start to create a poster using a Canva template. If you have any questio
   - Resize it down and centre it over the text. Notice that this element has a colour swatch in the upper left corner. Click on it and change it to the Dark Blue of the brochure theme.
 
 8. One last edit before finishing is to make a slight change to the header text: this font looks just a little too squished together.  
-- Click on “**Talk to us!**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit.   
+- Click on “**Foundation**” on the first page of the brochure to select it, and then click on the **Spacing** button in the upper menu bar. Adjust the **Letter spacing** a little bit.   
 <img src="images//canva-brochure-08.png" style="margin-left:20px;" alt="editing spacing toolbar.">
 - Repeat for all the header text using the same font. You’ll want to make sure that the spacing is consistent across all the headers.<br>
     <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
-    <img src="images/gifs/canva-brochure-03b.gif">
+    <img src="images/gifs/canva-brochure-4.gif">
     </div>
 
 9. **Exporting & Publishing**:
