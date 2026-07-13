@@ -6,14 +6,14 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Design and Layout with Canva Resources
--   Where to get high-resolution Creative Commons licensed photos and clip art? 
-   -   [Unspash](https://unsplash.com){:target="_blank"} (images)
-   -   [Pexels](https://www.pexels.com){:target="_blank"} (images)
-   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (clip art)
-   -   [Full colour clip art with transparent background](https://vectorstock.com){:target="_blank"} (clip art)
-   -   [Free icons to help describe your research story](https://thenounproject.com){:target="_blank"} (clip art)
-   -   [Google Advanced Image Search](https://www.google.ca/advanced_image_search){:target="_blank"} (imeages & clip art)
-   -   [CreativeCommons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+   -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
+   -   [Unsplash for Education collections](https://unsplash.com/@unsplashforeducation/collections){:target="_blank"} (photos, scientific images, art scans, etc)
+   -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
+   -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
+   -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
+   -   [Creative Commons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+   -   [Creative Commons video search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (AI image generator - 3 images only for free version)
 
 ## Design Tips and Examples (also found in the Take Home sheet)
 - [The fundamentals of design](https://www.youtube.com/watch?v=YqQx75OPRa0){:target="_blank"}
@@ -22,6 +22,7 @@ nav_order: 10
 - [Design Inspiration](https://www.designspiration.com/){:target="_blank"}
 - Inspiration, creators, freebies: [Dribble](https://dribbble.com/){:target="_blank"}
 - Colour scheme generator: [Coolors](https://coolors.co){:target="_blank"}
+- [WebAIM Colour contrast checker for accessibility](https://webaim.org/resources/contrastchecker/){:target="_blank"}
 
 ## Acknowledgements
 
