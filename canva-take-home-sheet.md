@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6-Take Home Sheet
-nav_order: 7
+title: 7-Take Home Sheet
+nav_order: 8
 parent: Workshop Activities
 ---
 # Design and Layout with Canva Take Home Sheet
