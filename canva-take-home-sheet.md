@@ -18,6 +18,7 @@ parent: Workshop Activities
 ## Resources:
 - Professional level, diverse, and inclusive resource for free stock photography and video: [Pexels](https://www.pexels.com){:target="_blank"}
 - Another excellent resources for free stock photography including history photos: [Unsplash](https://unsplash.com/){:target="_blank"}
+- Clip art for biologists: [Bio Render](http://biorender.com/){:target="_blank"} (Fremium)
 - Design inspiration: [Design Inspiration](https://www.designspiration.com/){:target="_blank"}
 - Inspiration, creators, freebies: [Dribble](https://dribbble.com/){:target="_blank"}
 - Colour scheme generator: [Coolors](https://coolors.co){:target="_blank"}
