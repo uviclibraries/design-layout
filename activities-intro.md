@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Activities Introduction
-nav_order: 2
-parent: Workshop Activities
+title: Self-Directed Introduction
+nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Introduction for Self-Directed Learners
 
 Please review the following links:
 
 - Watch the [Workshop Introduction Video](https://www.youtube.com/watch?v=g3pdyid7BjU){:target="_blank"}
-  - OR read the [Introductory Slides](http://bit.ly/38N9VRE){:target="_blank"} 
+  - OR read the [Introductory Slides](https://docs.google.com/presentation/d/1a_YVcNAz0J0b-fX2lt3b0m3xUlXYp-DCADwH_xlkQvM/){:target="_blank"} 
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
 
