@@ -24,4 +24,4 @@ parent: Workshop Activities
 ### Example of Comic Strip in Canva
   <img src="images/comic-strip.png" style="width:600px;" alt="comic strip example project"><br>
 
-[NEXT STEP: Academic Poster Tips](academic.html){: .btn .btn-blue } <br>
+[NEXT STEP: Accessibilty](accessibility.html){: .btn .btn-blue } <br>
