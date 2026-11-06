@@ -13,7 +13,7 @@ Add anything you think would be helpful: https://edtechuvic.ca/edci336/2026/02/2
 
 ## Canva's Accessibility Webinar:
 - [Design for Accessibility](https://youtu.be/GGR8UDCdi14?si=BuzSb5rMcBqx6hts){:target="_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YqQx75OPRa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/GGR8UDCdi14?si=BuzSb5rMcBqx6hts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resources:
 - Professional level, diverse, and inclusive resource for free stock photography and video: [Pexels](https://www.pexels.com){:target="_blank"}
