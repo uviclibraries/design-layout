@@ -11,7 +11,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
 
-2. Search for “**Mustard and white circles music festival poster**” in the search field in the top left field above the templates, and click on the poster template shown below to load it.<br>
+2. Search for “**Mustard and white circles music festival poster**” in the search field in the top left field above the templates, and click on the poster template shown below to load it.<br><br>
 <img src="images//photoframe-template.png" style="float:right;margin-left:10px; width:260px;" alt="poster template.">
 
 
