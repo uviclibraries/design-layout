@@ -20,7 +20,7 @@ Here are some additional things you can do in Canva templates. If you have any q
  
 4. You might notice that this photo has a shift in colour tones. This is from the photo being adjusted with a **Filter**. To edit this, **click on the circle** image to select it, and then click on **Edit image** in the top menu bar. This will bring up a bunch of adjustment options. You can click on an option and then drag a slider. Alternatively, this could be left to defaults and the **Filters** could be used to overlay filters with preset effects.
 
-   <img src="images//canva-photo-04b.png" style="margin-left:20px;width:220px;" alt="colour filters.">
+   <img src="images//canva-photo-04b.png" style="float:right;margin-left:20px;width:220px;" alt="colour filters.">
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
