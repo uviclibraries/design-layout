@@ -12,7 +12,7 @@ Canva has incorporated an accessibility checkers into their software. This acces
 Add anything you think would be helpful: https://edtechuvic.ca/edci336/2026/02/23/assistive-tech-intentionality-in-technology-enabled-learning-design/
 
 ## Canva's Accessibility Webinar:
-- [Design for Accessibility](https://youtu.be/GGR8UDCdi14?si=BuzSb5rMcBqx6hts)){:target="_blank"}
+- [Design for Accessibility](https://youtu.be/GGR8UDCdi14?si=BuzSb5rMcBqx6hts){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YqQx75OPRa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resources:
