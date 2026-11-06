@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Accessability
+title: 5- Bonus Accessibility
 nav_order: 6
 parent: Workshop Activities
 ---
