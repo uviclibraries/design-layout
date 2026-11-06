@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6-Accessability
-nav_order: 7
+title: 5-Accessability
+nav_order: 6
 parent: Workshop Activities
 ---
 # UNDER CONSTRUCTION
